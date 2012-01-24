@@ -64,6 +64,9 @@
             SnakeBit(0).Left += 10
         End If
 
+        If SnakeBit(0).Top > 440 Or SnakeBit(0).Top < 0 Or SnakeBit(0).Left > 465 Or SnakeBit(0).Left < 0 Then
+            Label1.Text = "ballsack"
+        End If
 
         If SnakeBit(0).Location = Fruitpb.Location Then
             Fruitpb.Visible = False

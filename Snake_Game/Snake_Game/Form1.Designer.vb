@@ -78,7 +78,7 @@ Partial Class Form1
         '
         Me.Fruitpb.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.Fruitpb.Cursor = System.Windows.Forms.Cursors.Default
-        Me.Fruitpb.Location = New System.Drawing.Point(470, 420)
+        Me.Fruitpb.Location = New System.Drawing.Point(360, 170)
         Me.Fruitpb.Name = "Fruitpb"
         Me.Fruitpb.Size = New System.Drawing.Size(10, 10)
         Me.Fruitpb.TabIndex = 4
