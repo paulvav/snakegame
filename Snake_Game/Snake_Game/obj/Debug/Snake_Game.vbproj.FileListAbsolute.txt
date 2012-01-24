@@ -1,0 +1,10 @@
+C:\Users\Emperor Vavich\snakegame\Snake_Game\Snake_Game\bin\Debug\Snake_Game.exe
+C:\Users\Emperor Vavich\snakegame\Snake_Game\Snake_Game\bin\Debug\Snake_Game.pdb
+C:\Users\Emperor Vavich\snakegame\Snake_Game\Snake_Game\bin\Debug\Snake_Game.xml
+C:\Users\Emperor Vavich\snakegame\Snake_Game\Snake_Game\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Emperor Vavich\snakegame\Snake_Game\Snake_Game\obj\Debug\Snake_Game.Form1.resources
+C:\Users\Emperor Vavich\snakegame\Snake_Game\Snake_Game\obj\Debug\Snake_Game.Resources.resources
+C:\Users\Emperor Vavich\snakegame\Snake_Game\Snake_Game\obj\Debug\Snake_Game.vbproj.GenerateResource.Cache
+C:\Users\Emperor Vavich\snakegame\Snake_Game\Snake_Game\obj\Debug\Snake_Game.exe
+C:\Users\Emperor Vavich\snakegame\Snake_Game\Snake_Game\obj\Debug\Snake_Game.xml
+C:\Users\Emperor Vavich\snakegame\Snake_Game\Snake_Game\obj\Debug\Snake_Game.pdb
